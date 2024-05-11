@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1655677593 source:c:\users\kegri\onedrive\pictures\ucf stuff\sophomore\cop 3502\assignment(4)\leak_detector_c.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"leak_detector_c.h"
+
+1655677598 c:\users\kegri\onedrive\pictures\ucf stuff\sophomore\cop 3502\assignment(4)\leak_detector_c.h
+
+1659019778 source:c:\users\kegri\onedrive\pictures\ucf stuff\sophomore\cop 3502\assignment(4)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"leak_detector_c.h"
+
+1659139269 source:c:\users\kegri\onedrive\pictures\ucf stuff\sophomore\cop 3502\assignment(4)\cop3502-as4-grimes-katelyn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"leak_detector_c.h"
+
