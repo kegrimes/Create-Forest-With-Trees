@@ -16,8 +16,8 @@ A forest, or a tree of trees, maintains records of specific types of "small mons
 
 ### GCC Compiler Commands:
 ```
-gcc cop3502-as4-grimes-katelyn.c -o out \\compile
-./out cop3502-as4-input.txt \\run
+gcc cop3502-as4-grimes-katelyn.c -o out //compile
+./out cop3502-as4-input.txt //run
 ```
 
 ### Output:
