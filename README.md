@@ -4,7 +4,7 @@ This project is from COP3502, Computer Science 1
 ### Overview:
 A forest, or a tree of trees, maintains records of specific types of "small monsters": animals, birds, fish, and fruits. Given the input file _"cop3502-as4-input.txt"_, the forest will be built first and then a list of commands following its construction will execute. An output file containing the results will be created in a textfile called _"cop3502-as4-output-grimes-katelyn.txt"_.  
   
-**NOTE**: the first line inside the input file is formatted  `%d %d %d`. The first integer represents the number of "small monster" types, or trees. The second integer represents the total number of items being added to the forest. Finally, the third integer represents the number of commands to be executed.  
+*NOTE: the first line inside the input file is formatted  `%d %d %d`. The first integer represents the number of "small monster" types, or trees. The second integer represents the total number of items being added to the forest. Finally, the third integer represents the number of commands to be executed.  
 
 ### List of Commands for Tree:
 1. `search<tree><item>` = searches for an _item_ in a specific _tree_
