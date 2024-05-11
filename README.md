@@ -21,5 +21,6 @@ gcc cop3502-as4-grimes-katelyn.c -o out //compile
 ```
 
 ### Output:
-In the terminal, the forest after it is constructed will be printed to the screen along with the updated forest after the list of commands are executed from the input file.      
+In the terminal, the forest after it is constructed will be printed to the screen along with the updated forest after the list of commands are executed from the input file.  
+
 The output file will be called _"cop3502-as4-output-grimes-katelyn.txt"_ and will print a smaller version of the forest and the results of the list of commands from the input file. 
