@@ -11,7 +11,6 @@
 #include <stdlib.h>
 #include <string.h>
 #include <stdbool.h>
-//#include "leak_detector_c.h"
 
 struct item_node_struct typedef item_node;
 
@@ -950,8 +949,6 @@ void delete_every_tree(tree_name_node *t)
 
 int main()
 {
-    //atexit(report_mem_leak);
-
     FILE *ifp = fopen("cop3502-as4-input.txt", "r");
     FILE *ofp = fopen("cop3502-as4-output-grimes-katelyn", "w");
 
